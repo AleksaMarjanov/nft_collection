@@ -29,7 +29,7 @@ function Loader() {
       <GooeyLoader1 {...loaderProps} />
       <Typed
         className="loader-text"
-        strings={["Mining..."]}
+        strings={["Minting..."]}
         typeSpeed={60}
         backSpeed={0}
       />
